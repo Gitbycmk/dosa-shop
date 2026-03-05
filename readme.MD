@@ -7,5 +7,5 @@
 
 ## Karam Dosa
 * Dosa Batter
-* Karam 
+* Yerra Karam ( Noramal Spicy )
 * Oil
