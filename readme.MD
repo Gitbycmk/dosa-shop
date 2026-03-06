@@ -10,5 +10,6 @@
 * Yerra Karam ( Noramal Spicy )
 * Oil
 
-## Egg Dosa
+# Egg Dosa
 * Dosa Batter
+* Egg and Karam
