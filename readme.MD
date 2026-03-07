@@ -13,3 +13,8 @@
 # Egg Dosa
 * Dosa Batter
 * Egg and Karam
+
+## Mashroom Dosa
+* Dosa Batter
+* Mashroom Masala Curry
+
