@@ -13,3 +13,6 @@
 # Egg Dosa
 * Dosa Batter
 * Egg and Karam
+
+## Ghee Karam Dosa
+* Dosa Batter
